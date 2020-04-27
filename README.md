@@ -18,7 +18,6 @@
 
 - [Flask Datta Able PRO](https://appseed.us/admin-dashboards/flask-dashboard-dattaable-pro) - Product page
 - [Flask Datta Able PRO](https://docs.appseed.us/admin-dashboards/flask-dashboard-dattaable-pro) - Documentation
-- [Flask Datta Able PRO](https://github.com/app-generator/flask-dashboard-dattaable-pro) - The public repository, used for bug tracking and licensing information
 - [Flask Datta Able PRO](https://flask-dashboard-dattaable-pro.appseed.us/) - LIVE demo
 
 <br />
