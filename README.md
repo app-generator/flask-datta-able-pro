@@ -25,7 +25,7 @@
 
 ## App Screenshots
 
-![Flask Dashboard DattaAble PRO - App Screen.](https://raw.githubusercontent.com/app-generator/static/master/flask-dashboard-dattaable-pro/flask-dashboard-dattaable-pro-screen.png)
+![Flask Dashboard DattaAble PRO - App Screen.](https://raw.githubusercontent.com/app-generator/static/master/flask-dashboard-dattaable-pro/flask-dashboard-dattaable-pro-screen-6.png)
 
 <br />
 
