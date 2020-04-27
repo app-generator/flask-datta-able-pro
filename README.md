@@ -33,11 +33,11 @@
 
 <br />
 
-![Flask Dashboard DattaAble PRO - App Screen.](https://raw.githubusercontent.com/app-generator/static/master/flask-dashboard-dattaable-pro/flask-dashboard-dattaable-pro-screen-2.png)
+![Flask Dashboard DattaAble PRO - App Screen.](https://raw.githubusercontent.com/app-generator/static/master/flask-dashboard-dattaable-pro/flask-dashboard-dattaable-pro-screen-4.png)
 
 <br />
 
-![Flask Dashboard DattaAble PRO - App Screen.](https://raw.githubusercontent.com/app-generator/static/master/flask-dashboard-dattaable-pro/flask-dashboard-dattaable-pro-screen-3.png)
+![Flask Dashboard DattaAble PRO - App Screen.](https://raw.githubusercontent.com/app-generator/static/master/flask-dashboard-dattaable-pro/flask-dashboard-dattaable-pro-screen-5.png)
 
 <br />
 
