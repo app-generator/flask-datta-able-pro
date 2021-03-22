@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.3] 2020-03-22
+### Fixes 
+
+- Bump Codebase: [Flask Dashboard](https://github.com/app-generator/boilerplate-code-flask-dashboard) v1.0.5
+- Bump UI: [Jinja Datta PRO](https://github.com/app-generator/jinja-datta-able-pro) v1.0.2
+
 ## [1.0.2] 2021-03-18
 ### Improvements
 
