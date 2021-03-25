@@ -18,7 +18,7 @@
 > Links
 
 - [Flask Datta Able PRO](https://appseed.us/admin-dashboards/flask-dashboard-dattaable-pro) - product page
-- [Flask Datta Able PRO - Demo](https://flask-dashboard-dattaable-pro.appseed.us/) - LIVE deployment
+- [Flask Datta Able PRO - Demo](https://flask-datta-able-pro.appseed-srv1.com) - LIVE deployment
 - [Flask Datta Able PRO - Docs](https://docs.appseed.us/admin-dashboards/flask-dashboard-dattaable-pro/) - Product documentation
 
 <br />
