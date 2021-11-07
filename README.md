@@ -6,7 +6,7 @@
 
 > Features
 
-- Up-to-date [dependencies](./requirements.txt): **Flask 2.0.1**
+- Up-to-date dependencies: **Flask 2.0.1**
 - [SCSS compilation](#recompile-css) via **Gulp**
 - DBMS: SQLite, PostgreSQL (production) 
 - DB Tools: SQLAlchemy ORM, Flask-Migrate (schema migrations)
