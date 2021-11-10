@@ -6,7 +6,7 @@
 
 > Features
 
-- Up-to-date dependencies: **Flask 2.0.1**
+- Up-to-date [dependencies](./requirements.txt): **Flask 2.0.1**
 - [SCSS compilation](#recompile-css) via **Gulp**
 - DBMS: SQLite, PostgreSQL (production) 
 - DB Tools: SQLAlchemy ORM, Flask-Migrate (schema migrations)
@@ -22,6 +22,27 @@
 - [Flask Datta Able PRO](https://appseed.us/admin-dashboards/flask-dashboard-dattaable-pro) - product page
 - [Flask Datta Able PRO](https://flask-datta-able-pro.appseed-srv1.com) - LIVE deployment
 - [Flask Datta Able PRO](https://docs.appseed.us/products/flask-dashboards/datta-able-pro) - Product documentation
+
+<br />
+
+## Quick Start in [Docker](https://www.docker.com/)
+
+> Get the code
+
+```bash
+$ git clone https://github.com/app-generator/priv-flask-dashboard-dattaable-pro.git
+$ cd priv-flask-dashboard-dattaable-pro
+```
+
+> Start the app in Docker
+
+```bash
+$ docker-compose pull   # download dependencies 
+$ docker-compose build  # local set up
+$ docker-compose up -d  # start the app 
+```
+
+Visit `http://localhost:85` in your browser. The app should be up & running.
 
 <br />
 
