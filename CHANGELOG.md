@@ -1,5 +1,13 @@
 # Change Log
 
+## [1.0.7] 2022-05-30
+### Improvements
+
+- Bump UI to `Datta Able PRO v1.0.0`
+- Improved `Docker`
+- Improved Codebase
+- Page Compression via `Flask-Minify`
+
 ## [1.0.6] 2022-04-01
 ### Fixes
 
