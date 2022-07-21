@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.10] 2022-06-13
+### Fixes
+
+- Docker Scripts
+- `elements-ac_tour.html` - fix broken template
+
 ## [1.0.9] 2022-06-13
 ### Improvements
 
