@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.0.17] 2022-08-17
+### Fixes & Improvements
+
+- Update API (minor)
+- List TOKEN_API in user profile page
+- Patch Twitter OAuth Blueprint
+
 ## [1.0.16] 2022-08-17
 ### Fixes
 
