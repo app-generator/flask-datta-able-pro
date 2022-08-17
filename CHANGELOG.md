@@ -1,17 +1,68 @@
 # Change Log
 
-## [1.0.10] 2022-06-13
+## [1.0.16] 2022-08-17
 ### Fixes
 
-- Docker Scripts
-- `elements-ac_tour.html` - fix broken template
+- Patch Twitter OAuth Flow
+  - SIGN-IN page was always hidden 
 
-## [1.0.9] 2022-06-13
+## [1.0.15] 2022-07-28
+### Fixes
+
+- `Users List` (Admin only view)
+  - Fix Users Deletion 
+- JS (Minor) Fixes
+  - Patch all JS Browser Warnings 
+
+## [1.0.14] 2022-07-28
+### Improvements & Fixes
+
+- Update password Improvements
+- Change Password Improvements
+- Fix JS Errors (Browser Console)
+
+## [1.0.13] 2022-07-20
+### Fixes
+
+- Patch Docker (now includes latest evolutions)
+  - Starts with `SQLite` 
+
+## [1.0.12] 2022-07-20
 ### Improvements
 
-- Built with [Datta Able PRO Generator](https://appseed.us/generator/datta-able-pro/)
-  - Timestamp: `2022-06-13 10:57`
-- Improved `Auth UX`
+- Auth Features
+  - Change password
+  - Self Account Deletion
+- API via Flask-RestX
+  - Path: `/api/` 
+  - Products, Sales models 
+
+## [1.0.11] 2022-07-19
+### Improvements
+
+- Added Social Login 
+  - Github & Twitter
+- Persistent Dark Mode  
+
+## [1.0.10] 2022-06-22
+### Improvements
+
+- Improve error checking on FTP IMG Upload
+  - Added test CMD: `flask test_ftp`
+  - UI is showing the status
+- Added Unitary tests
+  - `python.exe run.py tests`  
+
+## [1.0.9] 2022-06-15
+### Improvements
+
+- Improved Authentication
+  - Force strong passwords during registration
+  - Suspend user after 3 failed login attempts
+- New Feature: `User Profiles`
+  - Extended User profile
+  - Added Superusers
+  - Image upload via `FTP`
 
 ## [1.0.8] 2022-05-30
 ### Fixes
