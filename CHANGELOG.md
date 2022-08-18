@@ -1,10 +1,22 @@
 # Change Log
 
+## [1.0.18] 2022-08-18
+### Improvements
+
+- Auth:
+  - OAuth - Warn the user to provide an email
+  - Session-Based login is possible user OR Email
+  - Remove `old password` input for `change pass` option
+- User profile   
+  - Improved UX
+  - Added `API Explorer` tab
+  - List the `API_KEY` (required in API usage)
+
 ## [1.0.17] 2022-08-17
 ### Fixes & Improvements
 
 - Update API (minor)
-- List TOKEN_API in user profile page
+- List TOKEN_API on the user profile page
 - Patch Twitter OAuth Blueprint
 
 ## [1.0.16] 2022-08-17
