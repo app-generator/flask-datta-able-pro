@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.15] 2024-11-30
+### Changes
+
+- Update Routes
+- Update Dependencies
+
 ## [1.0.14] 2024-05-14
 ### Changes
 
