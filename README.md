@@ -12,6 +12,14 @@ Premium **Admin Dashboard** built in [Flask and Datta Able Design](https://app-g
   - `Start the project`
   - `Deploy on Render`
 
+<br />
+
+## LICENSE 
+
+> The **product is available for [Subscribers ONLY](https://app-generator.dev/terms/)**. For more information and products, feel free to access the [App-Generator](https://app-generator.dev/) platform.
+ 
+<br />
+
 ## ✅ **Features** 
 
 - `Up-to-date dependencies`
