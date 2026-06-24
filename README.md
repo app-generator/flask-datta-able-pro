@@ -1,16 +1,10 @@
-## [Flask Datta Able PRO](https://app-generator.dev/product/datta-able-pro/flask/)
+## [Flask Datta Able](https://app-generator.dev/product/datta-able-pro/flask/)
 
 Premium **Admin Dashboard** built in [Flask and Datta Able Design](https://app-generator.dev/product/datta-able-pro/flask/), the premium version. The codebase fully integrates the design and provides out-of-the-box: Charts, Server-Side DataTables, Async Tasks (celery), Media Files Manager, and Docker Support.
 
 - 👉 [Flask Datta Able PRO](https://app-generator.dev/product/datta-able-pro/flask/) - `Product Page`
 - 👉 [Flask Datta Able PRO](https://flask-datta-pro.onrender.com/) - `LIVE Demo` 
-- 👉 [Flask Datta Able PRO Documentation](https://app-generator.dev/docs/products/flask/datta-able-pro/index.html) - `Complete Information` and Support Links
-  - [Getting Started with Flask](https://app-generator.dev/docs/technologies/flask/index.html) - a `comprehensive tutorial`
-  - `Configuration`: Install Tailwind/Flowbite, Prepare Environment, Setting up the Database 
-  - `Start with Docker`
-  - `Manual Build`
-  - `Start the project`
-  - `Deploy on Render`
+- 👉 [Flask Datta Able PRO Documentation](https://app-generator.dev/docs/products/flask/datta-able-pro/index.html) - `Documentation`
 
 <br />
 
@@ -28,10 +22,10 @@ Premium **Admin Dashboard** built in [Flask and Datta Able Design](https://app-g
   - API
   - Charts
   - Media Files Manager
-- DB Persistence: SQLite (default), can be used with MySql, PgSql
+- DB Persistence: SQLite (default), can be used with MySQL, PostgreSQL
   - Silent fallback to `SQLite`  
 - `DB Tools`: SQLAlchemy ORM, `Flask-Migrate`
-- `Authentication`, Session Based
+- `Authentication`, Session-Based
 - `Docker`, Page Compression via `Flask-Minify`
 - `CI/CD` flow via `Render`
 
